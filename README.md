@@ -1026,20 +1026,7 @@ datasmith clean \
 echo "0 2 * * * cd /path/to/datasmith && datasmith clean --config datasmith.yaml --connection prod_db --profile daily_cleanup --table users --incremental" | crontab -
 ```
 
----
 
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/datasmith/issues)
-- **Docs**: This README + [INCREMENTAL_PROCESSING.md](INCREMENTAL_PROCESSING.md)
-
----
-
-## License
-
-MIT License
-
----
 
 Akylai, if you see this, text back with a unicorn
 
